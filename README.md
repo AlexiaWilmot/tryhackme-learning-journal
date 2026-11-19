@@ -1,10 +1,8 @@
-# TryHackMe Learning Journal
+# Cisco Packet Tracer Projects
 
-I have a BSc in Computer Networking and Security from UTECH, and I'm building my hands-on cybersecurity skills. This is where I document what I learn.
+Hands-on networking projects I build in Cisco Packet Tracer, a free network simulator. Each project has screenshots and notes on what I built and learned.
 
-TryHackMe profile: https://tryhackme.com/p/AlexiaWilmot
+## Projects
 
-## Rooms
-
-- [Room 1: Offensive Security Intro](room1-offensive-security-intro.md)
-- [Room 2: Defensive Security Intro](room2-defensive-security-intro.md)
+- [Project 1: My First Office Network](project1-first-office-network.md)
+- [Project 2: Two Departments Joined by a Router](project2-two-departments-router.md)
