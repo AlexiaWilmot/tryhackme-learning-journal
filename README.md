@@ -11,3 +11,4 @@ TryHackMe profile: https://tryhackme.com/p/AlexiaWilmot
 - [Room 3: Careers in Cyber](room3-careers-in-cyber.md)
 - [Room 4: Cold Boot](room4-cold-boot.md)
 - [Room 5: What is Networking?](room5-what-is-networking.md)
+- [Room 6: Intro to LAN](room6-intro-to-lan.md)
